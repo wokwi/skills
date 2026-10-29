@@ -1,0 +1,12 @@
+{
+  "name": "wokwi-skills",
+  "description": "Agent skills from Wokwi for testing embedded firmware without hardware.",
+  "owner": { "name": "Wokwi", "url": "https://wokwi.com" },
+  "plugins": [
+    {
+      "name": "wokwi",
+      "source": "./",
+      "description": "Wokwi CI, idf.py wokwi, automation scenarios, soak tests."
+    }
+  ]
+}

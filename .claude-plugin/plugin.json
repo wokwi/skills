@@ -1,0 +1,8 @@
+{
+  "name": "wokwi",
+  "description": "Agent skills for testing embedded firmware on the Wokwi simulator: CI setup, idf.py wokwi, automation scenarios, soak tests.",
+  "author": { "name": "Wokwi", "url": "https://wokwi.com" },
+  "homepage": "https://docs.wokwi.com/wokwi-ci/getting-started",
+  "repository": "https://github.com/wokwi/skills",
+  "keywords": ["wokwi", "esp32", "esp-idf", "embedded", "firmware", "simulation", "ci", "testing"]
+}
