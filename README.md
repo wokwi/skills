@@ -12,7 +12,12 @@ without a board on the desk. These skills close that loop.
 
 ## Skills
 
-TODO
+| Skill                                                          | Use it to                                                                                         |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [`find-memory-leaks`](skills/find-memory-leaks/SKILL.md)       | Catch slow leaks in ESP-IDF firmware: the simulator watches the heap while a scenario drives hours of use in seconds |
+| [`test-lvgl-ui`](skills/test-lvgl-ui/SKILL.md)                 | Regression-test an LVGL (or any) display UI in CI with taps, swipes and pixel-exact screenshot compare |
+| [`debug-esp32-firmware`](skills/debug-esp32-firmware/SKILL.md) | Decode a panic backtrace, reproduce the bug with scripted inputs, trace a bus to VCD, attach GDB without a probe |
+| [`verify-esp-idf-build`](skills/verify-esp-idf-build/SKILL.md) | Run and check an ESP-IDF build with `idf.py wokwi` right after building, no devkit attached           |
 
 ## Install
 
